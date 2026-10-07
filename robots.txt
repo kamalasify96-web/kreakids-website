@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://kamalasify96-web.github.io/sitemap.xml
