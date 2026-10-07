@@ -1,0 +1,4 @@
+node_modules
+.next
+.next-export
+.DS_Store
